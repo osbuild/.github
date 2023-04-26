@@ -14,7 +14,7 @@ Have questions or ideas? You can reach us through the following means:
 
 ### Mailing List
 
-We have a public mailing list available at [image-builder@redhat.com](mailto:image-builder@redhat.com).
+We have a public mailing list available at [image-builder@redhat.com](mailto:image-builder@redhat.com). You can subscribe or find the list archive [here](https://listman.redhat.com/mailman/listinfo/image-builder).
 
 ### Matrix Channel
 
