@@ -2,7 +2,7 @@
 
 Welcome to the Image Builder GitHub organisation. This is where we work and organise our projects.
 
-We work on building operating system artifacts (usually called images) such as ISOs, RAW images, or virtual machines. 
+We work on building operating system artifacts (usually called images) such as ISOs, RAW images, or virtual machines.
 
 ## Learn
 
