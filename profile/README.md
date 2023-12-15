@@ -1,12 +1,12 @@
 # Image Builder
 
-Welcome to the Image Builder GitHub organisation. This is where we work and organise our projects.
+Welcome to the Image Builder GitHub organization. This is where we work and organize our projects.
 
-We work on building operating system artifacts (usually called images) such as ISOs, RAW images, or virtual machines. 
+We work on building operating system artifacts (usually called images) such as ISOs, RAW images, or virtual machines.
 
 ## Learn
 
-You can learn more about the organisation, its projects, and how to contribute in our [guides](https://osbuild.org/guides).
+You can learn more about the organization, its projects, and how to contribute in our [guides](https://osbuild.org/guides).
 
 ## Get in touch
 
