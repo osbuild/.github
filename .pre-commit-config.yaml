@@ -37,5 +37,5 @@ repos:
         args: [-q]
   - repo: https://github.com/lorenzwalthert/precommit
     rev: v0.3.2.9027
-    hooks: 
+    hooks:
       - id: spell-check
