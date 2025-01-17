@@ -16,11 +16,13 @@ and [developer](https://osbuild.org/docs/developer-guide/index) guides.
 
 Have questions or ideas? You can reach us through the following means:
 
-### Mailing List
-
-We have a public mailing list available at [image-builder@redhat.com](mailto:image-builder@redhat.com).
-You can subscribe or find the list archive [here](https://listman.redhat.com/mailman/listinfo/image-builder).
-
 ### Matrix Channel
 
 We have a public Matrix channel available at [#image-builder:fedoraproject.org](https://matrix.to/#/#image-builder:fedoraproject.org).
+
+### Discussions
+
+More in-depth discussions are done in the pull-requests or issues of the
+respective [repositories](https://github.com/orgs/osbuild/repositories).
+
+Additionally there are general discussions [here](https://github.com/orgs/osbuild/discussions).
