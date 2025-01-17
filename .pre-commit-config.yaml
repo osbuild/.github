@@ -21,10 +21,6 @@ repos:
     rev: v0.13.0
     hooks:
       - id: markdownlint
-  - repo: https://github.com/maxbrunet/pre-commit-renovate
-    rev: 37.3.2
-    hooks:
-      - id: renovate-config-validator
   - repo: https://github.com/adrienverge/yamllint.git
     rev: v1.32.0
     hooks:
@@ -35,7 +31,3 @@ repos:
     hooks:
       - id: markdown-link-check
         args: [-q]
-  - repo: https://github.com/lorenzwalthert/precommit
-    rev: v0.3.2.9027
-    hooks:
-      - id: spell-check
