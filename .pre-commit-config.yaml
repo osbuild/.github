@@ -31,3 +31,7 @@ repos:
     hooks:
       - id: markdown-link-check
         args: [-q]
+  - repo: https://github.com/schuellerf/pre-commit-pyspelling
+    rev: 0.1.0
+    hooks:
+      - id: pyspelling
