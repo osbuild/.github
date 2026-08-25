@@ -1,6 +1,6 @@
 # Reporting a Security Vulnerability or Incident
 
-Please do not report security vulnerabilities or security incidents via public channels (such as GitHub Issues or Pull Requests). To ensure coordinated disclosure, submit your findings via email to: `osbuilders@redhat.com`
+Please do not report security vulnerabilities or security incidents via public channels (such as GitHub Issues or Pull Requests, GitLab Merge Requests). To ensure coordinated disclosure, submit your findings via email to: [osbuilders@redhat.com](mailto:osbuilders@redhat.com)
 
 ## Submission Guidelines
 
@@ -29,7 +29,7 @@ Direct all security questions and vulnerability reports to:
 
 ## Security Policy
 
-For the full vulnerability management and incident response policy, see the [Image Builder Security documentation](https://osbuild.org/docs/security/00-index).
+You can find the project's general vulnerability management and incident response policy at [osbuild.org/docs/security/index](https://osbuild.org/docs/security/index/).
 
 ## Supported Versions
 
