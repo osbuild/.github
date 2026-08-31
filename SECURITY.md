@@ -42,6 +42,16 @@ Refer to each project's release page for the latest version:
 - [images](https://github.com/osbuild/images/releases)
 - [bootc-image-builder](https://github.com/osbuild/bootc-image-builder/releases)
 
+## Secure Development Practices
+
+We follow established industry best practices for secure development including but not limited to:
+
+- Secured version control of source code.
+- Mandatory peer reviews.
+- Build time vulnerability scanning.
+- Automatic update of 3rd party dependencies.
+- Automatic end-to-end testing of security relevant features (e.g. authentication).
+
 ## EU Cyber Resilience Act — Open Source Steward Statement
 
 This project is stewarded by **Red Hat, Inc.**, an open source software steward as defined in Article 3(14) of the [EU Cyber Resilience Act (Regulation 2024/2847)](https://eur-lex.europa.eu/eli/reg/2024/2847/oj/eng).
