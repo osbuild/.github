@@ -39,7 +39,7 @@ Refer to each project's release page for the latest version:
 
 - [osbuild](https://github.com/osbuild/osbuild/releases)
 - [osbuild-composer](https://github.com/osbuild/osbuild-composer/releases)
-- [images](https://github.com/osbuild/images/releases)
+- [image-builder](https://github.com/osbuild/image-builder/releases)
 - [bootc-image-builder](https://github.com/osbuild/bootc-image-builder/releases)
 
 ## Secure Development Practices
